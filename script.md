@@ -1,5 +1,4 @@
-# Born2beRoot_42
-Born2beRoot_Installation_and_setup
+
 #!/bin/bash
 arc=$(uname -a)
 pcpu=$(grep "physical id" /proc/cpuinfo | sort | uniq | wc -l)
